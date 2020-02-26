@@ -13,6 +13,8 @@ namespace ECS.Test.Unit
         private ECS _uut;
         private FakeWindow _fakeWindow;
 
+        // Setup
+
         [SetUp]
         public void Setup()
         {
